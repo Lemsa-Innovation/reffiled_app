@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "605660877204",
+    "project_id": "refilled-delivery",
+    "storage_bucket": "refilled-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605660877204:android:c953b552dae93e1c3b3f81",
+        "android_client_info": {
+          "package_name": "com.refilledapp.refilled_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605660877204-m96j44ksg4usqtap7br4dkftcug767f3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.refilledapp.refilled_app",
+            "certificate_hash": "6ec7b8bc1a069ffc204ae7fa7c4ac03a41eaee95"
+          }
+        },
+        {
+          "client_id": "605660877204-6857orlqlbq7eq36p1faqpn8su0dro76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLCPpOLx0lE8ag7TgI4ar5T8SGHqaHFgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605660877204-6857orlqlbq7eq36p1faqpn8su0dro76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
